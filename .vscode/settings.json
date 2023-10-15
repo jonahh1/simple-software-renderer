@@ -14,6 +14,15 @@
 		"stdlib.h": "c",
 		"raylib.h": "c",
 		"rlgl.h": "c",
-		"*.m": "c"
+		"*.m": "c",
+		"stdio.h": "c",
+		"renderingapi.h": "c",
+		"game.h": "c",
+		"utils.h": "c",
+		"cmath": "c",
+		"softwareapi.h": "c",
+		"math.h": "c",
+		"tools.h": "c",
+		"iterator": "c"
 	}
 }
